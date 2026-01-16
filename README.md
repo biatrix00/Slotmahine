@@ -10,6 +10,5 @@ You can deposit money, place bets, and spin the slot machine.
 1. Make sure Python is installed.
 2. Open a terminal or command prompt.
 3. Run the file:
-
 ```bash
 python gui_slot.py
